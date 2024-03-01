@@ -6,4 +6,4 @@ const stringsArray = ["benz", "toyota", "bmw", "volvo", "acura"];
 stringsArray.sort();
 
 // Print the sorted array
-console.log("Sorted array of strings:", stringsArray);
+console.log("Sorted array of strings:", stringsArray)
